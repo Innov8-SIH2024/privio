@@ -8,7 +8,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="fixed top-0 w-full z-10 bg-white/55 bg-opacity-100 backdrop-filter backdrop-blur-md backdrop-saturate-150 shadow-xl overflow-x-hidden">
+    <nav className="fixed top-0 w-full z-10 bg-black/35 bg-opacity-20 backdrop-filter backdrop-blur-md backdrop-saturate-150 shadow-xl overflow-x-hidden">
       <div className=" mx-auto flex justify-between items-center p-4">
         {/* Logo */}
         <div className="text-2xl font-bold text-white">Privio</div>
